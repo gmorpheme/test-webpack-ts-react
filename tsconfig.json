@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "commonjs"
+  },
+  "files": [
+    "app/main.tsx",
+    "app/component.tsx",
+    "typings/tsd.d.ts",
+    "typings/react/react-global.d.ts"
+  ]
+}
